@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "golang.go",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-vscode.makefile-tools",
+    "pkief.material-icon-theme",
+    "zxh404.vscode-proto3",
+    "gruntfuggly.todo-tree",
+    "ryanluker.vscode-coverage-gutters",
+    "streetsidesoftware.code-spell-checker",
+    "redhat.vscode-yaml"
+  ]
+}

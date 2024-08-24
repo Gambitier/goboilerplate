@@ -1,0 +1,8 @@
+config.json
+.temp
+tmp
+db/dal
+gocomm
+_apidocs
+.DS_Store
+Makefile-build.log

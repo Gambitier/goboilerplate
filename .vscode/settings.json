@@ -1,0 +1,17 @@
+{
+  "files.eol": "\n",
+  "gopls": {
+    "buildFlags": ["-tags=tools,wireinject,!wireinject"]
+  },
+  "editor.formatOnSave": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "makefile.makefilePath": "Makefile",
+  "makefile.buildLog": "Makefile-build.log",
+  "makefile.configureOnOpen": true,
+  "makefile.buildBeforeLaunch": true
+}

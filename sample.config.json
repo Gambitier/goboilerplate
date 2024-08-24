@@ -1,0 +1,12 @@
+{
+  "environment": "development",
+  "webServerPort": 3000,
+  "grpcServerPort": 3001,
+  "databaseURL": "postgresql://postgres:toor@localhost:5432/mydatabase?sslmode=disable",
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "password": "toor"
+  },
+  "tempFileStoragePath": ".temp"
+}
